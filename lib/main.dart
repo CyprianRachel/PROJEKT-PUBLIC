@@ -49,7 +49,7 @@ void main(){
         ),
 
         appBar: AppBar(
-          title: Text('I am rich'),
+          title: Text('XDDDDDD'),
           centerTitle: true,
           backgroundColor: Colors.blueGrey[900],
         ),
@@ -57,5 +57,5 @@ void main(){
     ),
   );
 
-  //fsnmdifbsdifbsiodufbsiofbsifbiosdfoiusf
+
 }
